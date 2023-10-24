@@ -21,6 +21,10 @@ Se debe considerar los siguientes puertos analógicos del Arduino UNO: A0 = Ampl
 ### PRE-REQUISITOS
 
 Será necesario contar con 3 potenciometros de 10KOhms (De preferencia), 1 Arduino UNO, 4 matriz de 8x8, y un jack (En caso de hacerlo con audio).
+* Clonar repositorio
+  ```sh
+    git clone https://github.com/OnlyCodesOrg/Simulacion-Onda-Senoidal-Arduino/
+  ```
 * Instalar librería MD_MAX72XX
   ```sh
     Instalar directamente desde Arduino

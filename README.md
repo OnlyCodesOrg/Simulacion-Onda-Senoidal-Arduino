@@ -16,7 +16,7 @@ Para este repositorio, se crearon 2 códigos donde:
 <!-- GETTING STARTED -->
 ## PARA COMENZAR
 
-Será necesario contar con 3 potenciometros de 10KOhms (De preferencia), 1 Arduino UNO, 4 matriz de 8x8, y un jack (En caso de hacerlo con audio). A0 = Amplitud, A1 = Tiempo, A2 = Frecuencia y A3 = Audio (Opcional).
+Se debe considerar los siguientes puertos analógicos del Arduino UNO: A0 = Amplitud, A1 = Tiempo, A2 = Frecuencia y A3 = Audio (Opcional). Todos deben ir conectados correctamente para evitar estática.
 
 ### PRE-REQUISITOS
 

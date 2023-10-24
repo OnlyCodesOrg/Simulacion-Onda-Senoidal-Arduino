@@ -1,8 +1,6 @@
 <!-- ABOUT THE PROJECT -->
 ## SOBRE EL PROYECTO
 
-[![Product Name Screen Shot][product-screenshot]](https://cdn.discordapp.com/attachments/1152443540685729903/1166256518136614922/Sticker_1.png?ex=6549d405&is=65375f05&hm=74b1a5eee27b82b8d031a2eee0eddc620e6bec960d0b48e25103bb4ee00d5d45&)
-
 Para este repositorio, se crearon 2 códigos donde:
 * 3 Potenciometros: Se podrán conectar 3 potenciometros y jugar con una onda senoidal simulada dentro del ardiuno con una 4 matrices de 8x8.
 * 3 Potenciometros + Audio: En este, se pondrán conectar 3 potenciometros y además ver las ondas senoidales que se generan al momento de reproducir sonido mediante un jack.
